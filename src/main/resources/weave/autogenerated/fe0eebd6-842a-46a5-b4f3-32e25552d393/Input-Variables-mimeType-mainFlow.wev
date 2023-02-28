@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_fe0eebd6_842a_46a5_b4f3_32e25552d393_Input_Variables_mimeType_mainFlow = Any
+
